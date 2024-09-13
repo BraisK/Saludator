@@ -8,8 +8,8 @@ Aplicaciön web que te saluda por pantalla
 - [x] Crear la estructura html
 - [x] aplicar estilos css 
 - [x] Dotar de comportamiento con js
-- [ ] deploy
+- [x] deploy
   
 ### Sprint 2
 - [ ] mejorar la interfaz gráfica
-- [ ] poner el confeti
+- [x] poner el confeti

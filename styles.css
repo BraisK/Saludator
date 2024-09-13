@@ -7,13 +7,24 @@ button {
     cursor: pointer;
 }
 
-button:hover {
-    background-color: #0056ff;
-}
+
 
 body {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 100vh;
+}
+
+section {
+    flex: 1;
+}
+
+footer {
+    align-self: flex-end;
+}
+
+button:hover {
+    background-color: #0056ff;
 }
