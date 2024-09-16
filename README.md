@@ -1,7 +1,15 @@
 # Saludator
 
 ## Descripción 
-Aplicaciön web que te saluda por pantalla
+Ejercicio de una Aplicaciön web que te saluda por pantalla
+
+## Tecnologías
+-html
+-css
+-java(vanilla)
+
+## Deploy en github
+https://braisk.github.io/Saludator/
 
 ## Etapas
 
